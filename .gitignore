@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+*.a
+*.o
+*.out
+*.exe
+input.txt
+output.txt
